@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Foods>
+    <Food id="1" typeProduct="Dish">
+        <name>Сосиски божественные</name>
+        <cost>5.12</cost>
+        <timeCook>10</timeCook>
+        <weight>450</weight>
+    </Food>
+    <Food id="2" typeProduct="Soup">
+        <name>Японский</name>
+        <cost>6.14</cost>
+        <timeCook>15</timeCook>
+        <volume>450</volume>
+    </Food>
+    <Food id="3" typeProduct="Drink">
+        <name>Коктель У Байдена</name>
+        <cost>7.0</cost>
+        <timeCook>26</timeCook>
+        <percentAlko>4</percentAlko>
+    </Food>
+</Foods>
